@@ -1,4 +1,4 @@
-# DSATUR-COP-K-Means (COPKM_P)
+# DSATUR-COP-K-Means (COPKM_Plus)
 
 A fast, solver-free algorithm for semi-supervised (constrained) clustering under hard **must-link (ML)** and **cannot-link (CL)** constraints.
 
